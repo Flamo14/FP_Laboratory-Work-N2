@@ -1,0 +1,182 @@
+2026.10.09 00:21:45 INFO  Started: Metals version 1.6.9 in folders '/home/flamo/VSCode_projects/FP_Lab2' for client Visual Studio Code 1.137.0.
+2026.10.09 00:21:45 INFO  Memory monitor started
+2026.10.09 00:21:45 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 00:21:46 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.09 00:21:47 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.09 00:21:49 INFO  running '/usr/bin/sbt -Dbloop.export-jar-classifiers=sources -Dbloop.export-meta-build=true bloopInstall'
+2026.10.09 00:21:49 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.09 00:21:50 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.09 00:21:50 WARN  no build target for: /home/flamo/VSCode_projects/FP_Lab2/project/metals.sbt
+2026.10.09 00:21:51 INFO  [info] welcome to sbt 1.9.9 (Ubuntu Java 21.0.12)
+2026.10.09 00:21:52 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.09 00:21:53 INFO  [info] loading settings for project fp_lab2-build-build from metals.sbt ...
+2026.10.09 00:21:53 INFO  [info] loading project definition from /home/flamo/VSCode_projects/FP_Lab2/project/project
+2026.10.09 00:21:56 INFO  [info] loading settings for project fp_lab2-build from metals.sbt ...
+2026.10.09 00:21:56 INFO  [info] loading project definition from /home/flamo/VSCode_projects/FP_Lab2/project
+2026.10.09 00:21:59 INFO  [success] Generated .bloop/fp_lab2-build.json
+2026.10.09 00:21:59 INFO  [success] Total time: 3 s, completed 9 окт. 2026 г., 00:21:59
+2026.10.09 00:22:00 INFO  [info] loading settings for project root from build.sbt ...
+2026.10.09 00:22:00 INFO  [info] set current project to IstanbulStockExchangeLab (in build file:/home/flamo/VSCode_projects/FP_Lab2/)
+2026.10.09 00:22:05 INFO  [success] Generated .bloop/root.json
+2026.10.09 00:22:05 INFO  [success] Generated .bloop/root-test.json
+2026.10.09 00:22:05 INFO  [success] Total time: 5 s, completed 9 окт. 2026 г., 00:22:05
+2026.10.09 00:22:05 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.09 00:22:05 INFO  time: ran 'sbt bloopInstall' in 16s
+2026.10.09 00:22:06 INFO  Attempting to connect to the build server...
+2026.10.09 00:22:06 INFO  No running Bloop server found, starting one.
+2026.10.09 00:22:08 INFO  Starting compilation server
+2026.10.09 00:22:10 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/flamo/VSCode_projects/FP_Lab2/.metals/bsp.trace.json or /home/flamo/.cache/metals/bsp.trace.json
+2026.10.09 00:22:12 INFO  Attempting to connect to the build server...
+2026.10.09 00:22:12 INFO  Found a Bloop server running
+2026.10.09 00:22:12 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/flamo/VSCode_projects/FP_Lab2/project/.metals/bsp.trace.json or /home/flamo/.cache/metals/bsp.trace.json
+2026.10.09 00:22:12 INFO  time: Connected to build server in 6.79s
+2026.10.09 00:22:12 INFO  Connected to Build server: Bloop v2.1.2
+2026.10.09 00:22:12 INFO  time: Imported build in 0.21s
+2026.10.09 00:22:16 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2026.10.09 00:22:20 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-client-api/3.3.4/hadoop-client-api-3.3.4-sources.jar!/org/apache/hadoop/hdfs/protocol/proto/ClientNamenodeProtocolProtos.java]
+2026.10.09 00:22:20 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-20-636.md")
+2026.10.09 00:22:20 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-client-api/3.3.4/hadoop-client-api-3.3.4-sources.jar!/org/apache/hadoop/hdfs/protocol/proto/ClientDatanodeProtocolProtos.java]
+2026.10.09 00:22:20 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-20-875.md")
+2026.10.09 00:22:20 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-client-api/3.3.4/hadoop-client-api-3.3.4-sources.jar!/org/apache/hadoop/security/proto/RefreshUserMappingsProtocolProtos.java]
+2026.10.09 00:22:20 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-21-353.md")
+2026.10.09 00:22:20 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-client-api/3.3.4/hadoop-client-api-3.3.4-sources.jar!/org/apache/hadoop/ipc/protobuf/TestRpcServiceProtos.java]
+2026.10.09 00:22:20 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-21-508.md")
+2026.10.09 00:22:20 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-client-api/3.3.4/hadoop-client-api-3.3.4-sources.jar!/org/apache/hadoop/ipc/protobuf/TestRpcServiceProtosLegacy.java]
+2026.10.09 00:22:20 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-21-528.md")
+2026.10.09 00:22:20 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-client-api/3.3.4/hadoop-client-api-3.3.4-sources.jar!/org/apache/hadoop/ipc/protobuf/IpcConnectionContextProtos.java]
+2026.10.09 00:22:20 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-21-568.md")
+2026.10.09 00:22:20 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-client-api/3.3.4/hadoop-client-api-3.3.4-sources.jar!/org/apache/hadoop/ipc/protobuf/RpcHeaderProtos.java]
+2026.10.09 00:22:20 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-21-593.md")
+2026.10.09 00:22:20 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-client-api/3.3.4/hadoop-client-api-3.3.4-sources.jar!/org/apache/hadoop/tracing/TraceAdminPB.java]
+2026.10.09 00:22:20 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-21-711.md")
+2026.10.09 00:22:21 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-client-api/3.3.4/hadoop-client-api-3.3.4-sources.jar!/org/apache/hadoop/fs/audit/AuditConstants.java]
+2026.10.09 00:22:21 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-21-794.md")
+2026.10.09 00:22:26 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3-sources.jar!/org/apache/jute/compiler/generated/Rcc.java]
+2026.10.09 00:22:26 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-26-692.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/ArrowType.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-912.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/UnionReader.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-918.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/BaseWriter.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-922.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/CaseSensitiveStructWriters.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-928.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/DenseUnionVector.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-933.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/AbstractPromotableFieldWriter.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-938.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/UnionListWriter.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-943.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/UnionFixedSizeListWriter.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-946.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/BaseReader.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-950.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/UnionWriter.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-956.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/AbstractFieldReader.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-962.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/UnionVector.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-965.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/NullReader.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-969.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/StructWriters.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-973.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/ComplexWriters.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-976.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/UnionMapWriter.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-979.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/AbstractFieldWriter.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-981.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/ComplexCopier.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-984.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/ComplexReaders.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-991.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/HolderReaderImpl.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-995.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/ValueHolders.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-27-997.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/DenseUnionWriter.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-28-000.md")
+2026.10.09 00:22:27 INFO  Created report: Optional[file:///home/flamo/VSCode_projects/FP_Lab2/jar:file:/home/flamo/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/arrow/arrow-vector/12.0.1/arrow-vector-12.0.1-sources.jar!/codegen/templates/DenseUnionReader.java]
+2026.10.09 00:22:27 INFO  Java indexer failed with and exception. (full report at: "/home/flamo/VSCode_projects/FP_Lab2/.metals/.reports/metals-full/2026-10-09/r_failed-idex-java_00-22-28-003.md")
+2026.10.09 00:22:32 INFO  time: indexed workspace in 19s
+2026.10.09 00:22:33 INFO  compiling root (1 scala source)
+2026.10.09 00:22:33 INFO  Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.18. Compiling...
+2026.10.09 00:22:47 INFO  Compilation completed in 14.374s.
+2026.10.09 00:22:52 INFO  time: compiled root in 19s
+2026.10.09 00:23:29 INFO  Tracing is disabled for protocol dap-server. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/flamo/VSCode_projects/FP_Lab2/.metals/dap-server.trace.json or /home/flamo/.cache/metals/dap-server.trace.json
+2026.10.09 00:23:29 INFO  Tracing is disabled for protocol dap-client. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/flamo/VSCode_projects/FP_Lab2/.metals/dap-client.trace.json or /home/flamo/.cache/metals/dap-client.trace.json
+2026.10.09 00:23:29 INFO  Starting debug proxy for [com.fp.lab2.IstanbulStockExchangeApp]
+2026.10.09 00:23:30 INFO  Loaded expression compiler in 1 second
+2026.10.09 00:23:35 INFO  Loaded all sources and classes in 4 seconds
+2026.10.09 00:23:35 INFO  Initialized Scala 3 decoder in 6 milliseconds
+2026.10.09 00:23:35 INFO  Trying to attach to remote debuggee VM localhost:37935 .
+2026.10.09 00:23:35 INFO  Attaching to debuggee VM succeeded.
+2026.10.09 00:23:38 INFO  Closing debug server tcp://0.0.0.0:42885
+2026.10.09 00:23:38 INFO  Canceling debug proxy for [com.fp.lab2.IstanbulStockExchangeApp]
+2026.10.09 00:26:36 INFO  compiling root (1 scala source)
+2026.10.09 00:26:39 INFO  time: compiled root in 2.84s
+2026.10.09 00:30:42 INFO  Shutting down server
+2026.10.09 00:30:42 INFO  Memory monitor stopped
+2026.10.09 00:30:42 INFO  shutting down Metals
+2026.10.09 00:30:42 INFO  Shut down connection with build server.
+2026.10.09 00:30:42 INFO  Shut down connection with build server.
+2026.10.09 00:30:42 INFO  Exiting server
+2026.10.09 02:35:57 INFO  Started: Metals version 1.6.9 in folders '/home/flamo/VSCode_projects/FP_Lab2' for client Visual Studio Code 1.137.0.
+2026.10.09 02:35:57 INFO  Memory monitor started
+2026.10.09 02:35:57 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.09 02:35:59 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+окт. 09, 2026 2:36:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+окт. 09, 2026 2:36:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.10.09 02:36:00 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.09 02:36:00 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.09 02:36:00 INFO  Attempting to connect to the build server...
+2026.10.09 02:36:00 INFO  No running Bloop server found, starting one.
+окт. 09, 2026 2:36:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+окт. 09, 2026 2:36:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.10.09 02:36:00 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.09 02:36:01 INFO  Starting compilation server
+2026.10.09 02:36:03 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/flamo/VSCode_projects/FP_Lab2/.metals/bsp.trace.json or /home/flamo/.cache/metals/bsp.trace.json
+2026.10.09 02:36:03 INFO  Attempting to connect to the build server...
+2026.10.09 02:36:03 INFO  Found a Bloop server running
+2026.10.09 02:36:03 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/flamo/VSCode_projects/FP_Lab2/project/.metals/bsp.trace.json or /home/flamo/.cache/metals/bsp.trace.json
+2026.10.09 02:36:03 INFO  time: Connected to build server in 3.65s
+2026.10.09 02:36:03 INFO  Connected to Build server: Bloop v2.1.2
+2026.10.09 02:36:03 INFO  time: Imported build in 0.18s
+2026.10.09 02:36:06 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2026.10.09 02:36:07 INFO  time: indexed workspace in 3.49s
+2026.10.09 02:36:08 INFO  compiling root (1 scala source)
+2026.10.09 02:36:12 INFO  time: compiled root in 3.97s
+2026.10.09 02:37:09 INFO  Shutting down server
+2026.10.09 02:37:09 INFO  Memory monitor stopped
+2026.10.09 02:37:09 INFO  shutting down Metals
+2026.10.09 02:37:09 INFO  Shut down connection with build server.
+2026.10.09 02:37:09 INFO  Shut down connection with build server.
+2026.10.09 02:37:09 INFO  Exiting server
+2026.10.16 12:14:20 INFO  Started: Metals version 1.6.9 in folders '/home/flamo/VSCode_projects/FP_Lab2' for client Visual Studio Code 1.137.0.
+2026.10.16 12:14:20 INFO  Memory monitor started
+2026.10.16 12:14:21 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.16 12:14:21 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+окт. 16, 2026 12:14:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+окт. 16, 2026 12:14:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.10.16 12:14:23 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.16 12:14:23 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.16 12:14:23 INFO  Attempting to connect to the build server...
+2026.10.16 12:14:23 INFO  No running Bloop server found, starting one.
+2026.10.16 12:14:23 INFO  no build target found for /home/flamo/VSCode_projects/FP_Lab2/src/main/scala/com/fp/lab2/IstanbulStockExchangeApp.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.16 12:14:24 INFO  Starting compilation server
+2026.10.16 12:14:26 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/flamo/VSCode_projects/FP_Lab2/.metals/bsp.trace.json or /home/flamo/.cache/metals/bsp.trace.json
+2026.10.16 12:14:27 INFO  Attempting to connect to the build server...
+2026.10.16 12:14:27 INFO  Found a Bloop server running
+2026.10.16 12:14:27 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/flamo/VSCode_projects/FP_Lab2/project/.metals/bsp.trace.json or /home/flamo/.cache/metals/bsp.trace.json
+2026.10.16 12:14:28 INFO  time: Connected to build server in 4.2s
+2026.10.16 12:14:27 INFO  Connected to Build server: Bloop v2.1.2
+2026.10.16 12:14:27 INFO  time: Imported build in 0.26s
+2026.10.16 12:14:30 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2026.10.16 12:14:32 INFO  time: indexed workspace in 3.78s
