@@ -180,3 +180,5 @@ WARNING: Unmatched cancel notification for request id 2
 2026.10.16 12:14:27 INFO  time: Imported build in 0.26s
 2026.10.16 12:14:30 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
 2026.10.16 12:14:32 INFO  time: indexed workspace in 3.78s
+окт. 16, 2026 12:15:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
